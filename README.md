@@ -3,7 +3,6 @@
 ![mockup-page](https://user-images.githubusercontent.com/88220398/133937894-ef26ad55-c707-4e01-b70a-143200499c5f.png)
 # Jobs Have Been Done:
 - Comment in HTML, CSS, JavaScrips File
-- Portfolio Personal Information
 - Worked on JavaScrips Syntax
 - Style CSS
 - Pushed To Remote Repo
