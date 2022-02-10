@@ -98,7 +98,7 @@ THEN the password is either displayed in an alert or written to the page
 
 # Live Demo Github: 
 <a href="https://thihoangpham.github.io/password-generator/">
-  <img alt="live demo heroku" src="https://img.shields.io/badge/demo-heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" target="_blank" />
+  <img alt="live demo heroku" src="https://img.shields.io/badge/Demo-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 
 # Contributor
