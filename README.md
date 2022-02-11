@@ -1,16 +1,18 @@
 <h1 align="center"> JAVASCRIPT - PASSWORD GENERATOR 🚩</h1>
 <br>
 <p align="center">
-  <a href="#">
+<a href="#">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascriptlogoColor=black" target="_blank" />
   <a href="#">
   <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
   <a href="#">
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank" />
   <a href="#">
-  <img alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" target="_blank" />
+  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   <a href="#">
   <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <a href="#">
+  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <br>
   <a href="#">
   <img alt="watchers" src="https://img.shields.io/github/watchers/ThiHoangPham/password-generator?color=%2346b946&style=flat-square" target="_blank" />
